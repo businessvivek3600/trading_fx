@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919192998579",
+    "project_id": "tradingfx-811f5",
+    "storage_bucket": "tradingfx-811f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919192998579:android:a57546b1646dbb12d016c6",
+        "android_client_info": {
+          "package_name": "com.app.tradingfx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6izWymEutjpuGm1eh7CXqKp0XMlBL1Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

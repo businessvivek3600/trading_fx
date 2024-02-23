@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C2N8T6NM8W.com.mywealthclub",
+        "paths": ["*","/refCode","/signup","/ytPage"]
+      }
+    ]
+  }
+}

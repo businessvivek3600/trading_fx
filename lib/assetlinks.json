@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mywealthclub",
+    "sha256_cert_fingerprints":
+    ["DF:5D:2C:28:C0:95:01:13:F1:52:A3:BD:7A:94:7B:E0:9B:8F:87:5C:E3:C6:D9:D4:3D:C5:C6:16:05:69:AA:70","46:EF:3B:F6:EB:68:56:FD:66:43:16:FE:FE:EF:81:E5:3E:57:D8:40:27:B4:5F:7F:9B:06:E3:E5:B5:67:BD:3F"]
+  }
+}]

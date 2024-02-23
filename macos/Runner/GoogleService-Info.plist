@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>924291081601-5q7b8ka5rjujk1pvq4549im127c4ni4d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.924291081601-5q7b8ka5rjujk1pvq4549im127c4ni4d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>924291081601-9jcepp68kuip52p9j6d7r0h5u5q2680r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCexwb04iUnRbS-m3elAuKDt1-UF_6h60</string>
+	<key>GCM_SENDER_ID</key>
+	<string>924291081601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycarclub.cars</string>
+	<key>PROJECT_ID</key>
+	<string>my-car-club</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-car-club.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:924291081601:ios:2d981fbc1b5e9fee15f480</string>
+</dict>
+</plist>
